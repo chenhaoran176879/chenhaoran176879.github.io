@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Master’s student at the Large Model Research Center, Institute of Automation, Chinese Academy of Sciences, under the guidance of Associate Professors  [Dr. Zhu](https://scholar.google.com/citations?user=tVeCxZcAAAAJ&hl=en&oi=ao) and [Dr. Yi](https://scholar.google.com/citations?user=iga8Z4AAAAAJ&hl=en&oi=ao). 
+I am a third-year Master’s student at the Large Model Research Center, Institute of Automation, Chinese Academy of Sciences, under the guidance of Associate Professors  [Dr. Zhu](https://scholar.google.com/citations?user=tVeCxZcAAAAJ&hl=en&oi=ao) and [Dr. Yi](https://scholar.google.com/citations?user=iga8Z4AAAAAJ&hl=en&oi=ao). I got my Bachelor's degree from Department of Automation, Tsinghua University. My undergraduate thesis was completed under the supervision of Professor [Dr. Song](https://scholar.google.com/citations?user=rw6vWdcAAAAJ&hl=en).
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
@@ -45,7 +45,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 📖 Educations
-- *2022.9 - 2025.06 (now)*, Master, Institute of Automation, Chinese Academy of Sciences
+- *2022.09 - 2025.06 (now)*, Master, Institute of Automation, Chinese Academy of Sciences
 - *2018.09 - 2022.06*, Bachelor, Department of Automation, School of Information Science and Techonology, Tsinghua University
 
 
