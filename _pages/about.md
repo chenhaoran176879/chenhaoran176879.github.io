@@ -17,10 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Master student at the Large Model Research Center, Institute of Automation, Chinese Academy of Sciences, under the guidance of Associate Professors  [Dr. Zhu](https://scholar.google.com/citations?user=tVeCxZcAAAAJ&hl=en&oi=ao) and [Dr. Yi](https://scholar.google.com/citations?user=iga8Z4AAAAAJ&hl=en&oi=ao). I am also supervised by [Prof. Wang](https://scholar.google.com/citations?user=7_BkyxEAAAAJ&hl=en). I got my Bachelor's degree from Department of Automation, Tsinghua University. My undergraduate thesis about Operations Optimization was completed under the supervision of Professor [Dr. Song](https://scholar.google.com/citations?user=rw6vWdcAAAAJ&hl=en).
+I am a third-year Master student at the Large Model Research Center, Institute of Automation, Chinese Academy of Sciences, under the guidance of Associate Professors  [Dr. Zhu](https://scholar.google.com/citations?user=tVeCxZcAAAAJ&hl=en&oi=ao) and [Dr. Yi](https://scholar.google.com/citations?user=iga8Z4AAAAAJ&hl=en&oi=ao). I am also supervised by [Prof. Wang](https://scholar.google.com/citations?user=7_BkyxEAAAAJ&hl=en). I got my Bachelor's degree from Department of Automation, Tsinghua University. My undergraduate thesis about Operations Optimization was completed under the supervision of [Prof. Song](https://scholar.google.com/citations?user=rw6vWdcAAAAJ&hl=en).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include multimodal deep learning, with a particular focus on vision-language alignment, large language models, benchmarks, and dataset development. I have completed three comprehensive research projects, each culminating in a paper<img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). I also have sufficient experence dealing with MLLM's coding environment and finetuning.  
 
+(2025.01) NOW I am seeking for a PhD position in Fall, 2025. I do have special interest for Japan's universities, thus I am also looking for a later PhD position in Japan.
 
 # 🔥 News
 - *2024.12*: &nbsp; ICME2025 🎉🎉 A paper about *Video Large Models* is Submitted.
