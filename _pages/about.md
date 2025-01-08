@@ -23,8 +23,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.12*: &nbsp; ICME2025 🎉🎉 A paper about Video Large Models is Submitted. 
+- *2022.05*: &nbsp; NIPS2022 🎉🎉 Taisu: A 166m large-scale high-quality dataset for chinese vision-language pre-training is Published.
 
 # 📝 Publications 
 
