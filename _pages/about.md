@@ -21,7 +21,8 @@ I am a third-year Master student at the Large Model Research Center, Institute o
 
 My research interests include multimodal deep learning, with a particular focus on vision-language alignment, large language models, benchmarks, and dataset development. I have completed three comprehensive research projects, each culminating in a paper<img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">. I also have sufficient experence dealing with MLLM's coding environment and finetuning.  
 
-(2025.01) NOW I am seeking a PhD position in Fall, 2025. I do have special interest for Japan's universities, thus I am also looking for a later PhD position in Japan.
+(2025.01) NOW I am seeking a PhD position in Fall, 2025. I am also looking for a Research Assistant position in this year.
+
 
 # 🔥 News
 - *2024.12*: &nbsp; ICME2025 🎉🎉 A paper about *Video Large Models* is Submitted.
