@@ -90,7 +90,7 @@ My research interests include multimodal deep learning, with a particular focus 
 
 # 🏀 Interest
 - I found not only my passion in scientific research, but also in a colorful lifestyle.
-- For Sports, I love playing basketball since 2011. And I started playing tennis since 2020. I routinely work out in gym. 
+- I love playing basketball and tennis. I routinely work out in gym. 
 - I love traveling and citywalk. I am experienced at Landscape Photography.
 - I love Chinese traditional culture and read ancient Chinese language a lot.
 - I love music, especially pop and piano.
