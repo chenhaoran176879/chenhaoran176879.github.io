@@ -36,7 +36,7 @@ My research interests include multimodal deep learning, with a particular focus 
   <div class='paper-box-image'>
     <div>
       <div class="badge">ArXiv</div>
-      <img src='images/rcc_resized.png' alt="sym" width="100%">
+      <img src='images/bench_resized.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
@@ -83,3 +83,7 @@ My research interests include multimodal deep learning, with a particular focus 
 -  *2023.09 - 2024,12*, Student Researcher in Wuhan Artificial Intelligence Research, Wuhan.
 -  *2021.11 - 2022.01*, Researcher on Fire Recoginition in XinAo Group, Beijing.
 -  *2021.06 - 2021.10*, Game Develop in Bytedance, Beijing.
+
+
+# 🏀 Interest
+- I found not only my passion in scientific research, but also in a colorful lifestyle. 
