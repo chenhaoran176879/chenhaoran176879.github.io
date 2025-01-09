@@ -30,29 +30,48 @@ My research interests include multimodal deep learning, with a particular focus 
 - *2022.05*: &nbsp; NIPS2022 🎉🎉 *Taisu: A 166m large-scale high-quality dataset for chinese vision-language pre-training* is Published.
 
 
-
 # 📝 Preprints
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2022</div><img src='images/rcc_resized.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Recurrent Context Compression: Efficiently Expanding the Context Window of LLM](https://arxiv.org/pdf/2406.06110)
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ArXiv</div>
+      <img src='images/rcc_resized.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <a href="https://arxiv.org/pdf/2406.06110"><strong>A Video Large Model Benchmark on Anomaly Analysis</strong></a><br>
+    <strong>Haoran Chen</strong>, Dong Yi, Moyan Cao, Chensen Huang, Guibo Zhu, Jinqiao Wang
+  </div>
+</div>
 
-Chensen Huang, Guibo Zhu, Xuepeng Wang,Yifei Luo, Guojing Ge, **Haoran Chen**, Dong Yi, Jinqiao Wang
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ArXiv</div>
+      <img src='images/rcc_resized.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <a href="https://arxiv.org/pdf/2406.06110"><strong>Recurrent Context Compression: Efficiently Expanding the Context Window of LLM</strong></a><br>
+    Chensen Huang, Guibo Zhu, Xuepeng Wang, Yifei Luo, Guojing Ge, <strong>Haoran Chen</strong>, Dong Yi, Jinqiao Wang
+  </div>
+</div>
 
+# 📝 Publications
 
-
-
-
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2022</div><img src='images/taisu500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[TaiSu: A 166M Large-scale High-Quality Dataset for Chinese Vision-Language Pre-training](https://proceedings.neurips.cc/paper_files/paper/2022/file/6a386d703b50f1cf1f61ab02a15967bb-Paper-Datasets_and_Benchmarks.pdf)
-
-Yulong Liu, Guibo Zhu, Bin Zhu, Qi Song, Guojing Ge, **Haoran Chen**, Guanhui Qiao, Ru Peng, Lingxiang Wu1, and Jinqiao Wang
-
-
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">NIPS2022</div>
+      <img src='images/taisu500x300.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/6a386d703b50f1cf1f61ab02a15967bb-Paper-Datasets_and_Benchmarks.pdf"><strong>TaiSu: A 166M Large-scale High-Quality Dataset for Chinese Vision-Language Pre-training</strong></a><br>
+    Yulong Liu, Guibo Zhu, Bin Zhu, Qi Song, Guojing Ge, <strong>Haoran Chen</strong>, Guanhui Qiao, Ru Peng, Lingxiang Wu, and Jinqiao Wang
+  </div>
+</div>
 
 
 # 📖 Educations
