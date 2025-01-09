@@ -25,7 +25,7 @@ My research interests include multimodal deep learning, with a particular focus 
 
 
 # 🔥 News
-- *2024.12*: &nbsp; Arxiv    🎉🎉 A paper about *Video Large Models* is Submitted to Anonymous Review.
+- *2024.12*: &nbsp; Review    🎉🎉 A paper about *Video Large Models* is Submitted to Anonymous Review.
 - *2024.06*: &nbsp; ArXiv    🎉🎉 *Recurrent Context Compression: Efficiently Expanding the Context Window of LLM* is now on ArXiv.
 - *2022.05*: &nbsp; NIPS2022 🎉🎉 *Taisu: A 166m large-scale high-quality dataset for chinese vision-language pre-training* is Published.
 
@@ -35,12 +35,12 @@ My research interests include multimodal deep learning, with a particular focus 
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">ArXiv</div>
-      <img src='images/bench_resized.png' alt="sym" width="100%">
+      <div class="badge">Reviewing</div>
+      <img src='images/500x300.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
-    <a href="https://arxiv.org/pdf/2406.06110"><strong>A Video Large Model Benchmark on Anomaly Analysis</strong></a><br>
+   <strong>A Video Large Model Benchmark on Anomaly Analysis</strong></a><br>
     <strong>Haoran Chen</strong>, Dong Yi, Moyan Cao, Chensen Huang, Guibo Zhu, Jinqiao Wang<br><br>
     This benchmark introduces a large-scale dataset for evaluating multimodal large language models (MLLMs) in crime surveillance video analysis. It integrates 1,829 videos from UCF-Crime and UCF-Crime Annotation, introduces six question-answering tasks, employs GPT-4o for open-ended evaluation, and highlights MLLM improvements after fine-tuning, advancing anomaly detection research.
   </div>
