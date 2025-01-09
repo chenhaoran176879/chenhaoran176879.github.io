@@ -41,7 +41,8 @@ My research interests include multimodal deep learning, with a particular focus 
   </div>
   <div class='paper-box-text'>
     <a href="https://arxiv.org/pdf/2406.06110"><strong>A Video Large Model Benchmark on Anomaly Analysis</strong></a><br>
-    <strong>Haoran Chen</strong>, Dong Yi, Moyan Cao, Chensen Huang, Guibo Zhu, Jinqiao Wang
+    <strong>Haoran Chen</strong>, Dong Yi, Moyan Cao, Chensen Huang, Guibo Zhu, Jinqiao Wang<br><br>
+    This benchmark introduces a large-scale dataset for evaluating multimodal large language models (MLLMs) in crime surveillance video analysis. It integrates 1,829 videos from UCF-Crime and UCF-Crime Annotation, introduces six question-answering tasks, employs GPT-4o for open-ended evaluation, and highlights MLLM improvements after fine-tuning, advancing anomaly detection research.
   </div>
 </div>
 
@@ -54,7 +55,8 @@ My research interests include multimodal deep learning, with a particular focus 
   </div>
   <div class='paper-box-text'>
     <a href="https://arxiv.org/pdf/2406.06110"><strong>Recurrent Context Compression: Efficiently Expanding the Context Window of LLM</strong></a><br>
-    Chensen Huang, Guibo Zhu, Xuepeng Wang, Yifei Luo, Guojing Ge, <strong>Haoran Chen</strong>, Dong Yi, Jinqiao Wang
+    Chensen Huang, Guibo Zhu, Xuepeng Wang, Yifei Luo, Guojing Ge, <strong>Haoran Chen</strong>, Dong Yi, Jinqiao Wang<br><br>
+    The paper introduces Recurrent Context Compression (RCC), a novel method to extend context windows in Transformer-based large language models efficiently. RCC uses an autoencoder structure and a two-stage training process to compress long texts while retaining high accuracy. The approach achieves competitive performance in long-text tasks, improves memory efficiency, and addresses challenges with instruction reconstruction.
   </div>
 </div>
 
@@ -69,7 +71,8 @@ My research interests include multimodal deep learning, with a particular focus 
   </div>
   <div class='paper-box-text'>
     <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/6a386d703b50f1cf1f61ab02a15967bb-Paper-Datasets_and_Benchmarks.pdf"><strong>TaiSu: A 166M Large-scale High-Quality Dataset for Chinese Vision-Language Pre-training</strong></a><br>
-    Yulong Liu, Guibo Zhu, Bin Zhu, Qi Song, Guojing Ge, <strong>Haoran Chen</strong>, Guanhui Qiao, Ru Peng, Lingxiang Wu, and Jinqiao Wang
+    Yulong Liu, Guibo Zhu, Bin Zhu, Qi Song, Guojing Ge, <strong>Haoran Chen</strong>, Guanhui Qiao, Ru Peng, Lingxiang Wu, and Jinqiao Wang<br><br>
+    The TaiSu dataset introduces a large-scale, high-quality Chinese vision-language pre-training resource with 166 million images and 219 million captions. It leverages an automatic data acquisition and filtering framework. TaiSu outperforms existing benchmarks in zero-shot image-text retrieval, classification, and generative tasks, addressing limitations in prior Chinese cross-modal datasets.
   </div>
 </div>
 
