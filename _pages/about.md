@@ -26,7 +26,7 @@ My research interests include multimodal deep learning, with a particular focus 
 
 # 🔥 News
 - *2024.12*: &nbsp; Review   🎉🎉 A paper about *Video Large Models* is Submitted to Anonymous Review.
-- *2024.06*: &nbsp; ArXiv    🎉🎉 *Recurrent Context Compression: Efficiently Expanding the Context Window of LLM* is now on ArXiv.
+- *2024.06*: &nbsp; ArXiv&nbsp;    🎉🎉 *Recurrent Context Compression: Efficiently Expanding the Context Window of LLM* is now on ArXiv.
 - *2022.05*: &nbsp; NIPS2022 🎉🎉 *Taisu: A 166m large-scale high-quality dataset for chinese vision-language pre-training* is Published.
 
 
