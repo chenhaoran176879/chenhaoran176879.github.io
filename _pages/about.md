@@ -40,7 +40,7 @@ My research interests include multimodal deep learning, with a particular focus 
     </div>
   </div>
   <div class='paper-box-text'>
-   <strong>A Video Large Model Benchmark on Anomaly Analysis</strong></a><br>
+   <strong>A Video Large Model Benchmark on Anomaly Analysis</strong><br>
     <strong>Haoran Chen</strong>, Dong Yi, Moyan Cao, Chensen Huang, Guibo Zhu, Jinqiao Wang<br><br>
     This benchmark introduces a large-scale dataset for evaluating multimodal large language models (MLLMs) in crime surveillance video analysis. It introduces various question-answering tasks, employs GPT-4o for open-ended evaluation, and highlights MLLM improvements after fine-tuning, advancing anomaly analysis research.
   </div>
