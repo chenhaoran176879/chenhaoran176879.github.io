@@ -29,6 +29,20 @@ My research interests include multimodal deep learning, with a particular focus 
 - *2024.06*: &nbsp; ArXiv    🎉🎉 *Recurrent Context Compression: Efficiently Expanding the Context Window of LLM* is now on ArXiv.
 - *2022.05*: &nbsp; NIPS2022 🎉🎉 *Taisu: A 166m large-scale high-quality dataset for chinese vision-language pre-training* is Published.
 
+
+
+# 📝 Preprints
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2022</div><img src='images/rcc_resized.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Recurrent Context Compression: Efficiently Expanding the Context Window of LLM](https://arxiv.org/pdf/2406.06110)
+
+Chensen Huang, Guibo Zhu, Xuepeng Wang,Yifei Luo, Guojing Ge, **Haoran Chen**, Dong Yi, Jinqiao Wang
+
+
+
+
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2022</div><img src='images/taisu500x300.png' alt="sym" width="100%"></div></div>
@@ -38,12 +52,7 @@ My research interests include multimodal deep learning, with a particular focus 
 
 Yulong Liu, Guibo Zhu, Bin Zhu, Qi Song, Guojing Ge, **Haoran Chen**, Guanhui Qiao, Ru Peng, Lingxiang Wu1, and Jinqiao Wang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 
 # 📖 Educations
